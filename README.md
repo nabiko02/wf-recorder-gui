@@ -40,8 +40,6 @@ sudo pacman -S wf-recorder wlr-randr slurp libpulse
 
 ### Arch Linux (AUR)
 
-> **Note:** The AUR package is not yet available.
-
 ```bash
 yay -S recway
 # or

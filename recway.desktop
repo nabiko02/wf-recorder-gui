@@ -5,6 +5,6 @@ Exec=recway
 Icon=camera-video-symbolic
 Terminal=false
 Type=Application
-Categories=AudioVideo;Video;Recorder;GTK;
+Categories=AudioVideo;Video;Recorder;
 Keywords=screen;recorder;wayland;capture;
 StartupNotify=true
